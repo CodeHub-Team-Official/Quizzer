@@ -19,14 +19,14 @@ export const managerSocketHandlers = ({ socket }: SocketContext) => {
     try {
       const config = getGameConfig()
 
-      if (config.managerPassword === "PASSWORD") {
-        socket.emit(
-          EVENTS.MANAGER.ERROR_MESSAGE,
-          "errors:manager.passwordNotConfigured",
-        )
+      // if (config.managerPassword === "PASSWORD") {
+      //   socket.emit(
+      //     EVENTS.MANAGER.ERROR_MESSAGE,
+      //     "errors:manager.passwordNotConfigured",
+      //   )
 
-        return
-      }
+      //   return
+      // }
 
       if (password !== config.managerPassword) {
         socket.emit(
