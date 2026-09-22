@@ -25,7 +25,7 @@ i18n
   .use(LanguageDetector)
   .use(initReactI18next)
   .init({
-    fallbackLng: "en",
+    fallbackLng: "ar",
     defaultNS: "common",
     resources,
     detection: {
