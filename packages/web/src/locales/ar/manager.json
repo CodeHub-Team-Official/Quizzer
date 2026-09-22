@@ -1,0 +1,45 @@
+{
+  "configurationsTitle": "الإعدادات",
+  "logout": "تسجيل الخروج",
+  "passwordPlaceholder": "كلمة المرور",
+  "quizz": {
+    "create": "إنشاء اختبار",
+    "delete": "حذف الاختبار",
+    "deleteConfirm": "هل أنت متأكد أنك تريد حذف \"{{name}}\"؟ لا يمكن التراجع عن هذا الإجراء.",
+    "deleted": "تم حذف الاختبار",
+    "export": "تصدير الاختبار كملف JSON",
+    "import": "استيراد اختبار من JSON",
+    "none": "لم يتم إنشاء أي اختبار بعد",
+    "notFound": "لم يتم العثور على اختبار",
+    "pleaseCreate": "يرجى إنشاء اختبار أولاً",
+    "pleaseSelect": "يرجى اختيار اختبار",
+    "startGame": "ابدأ اللعبة"
+  },
+  "result": {
+    "delete": "حذف النتيجة",
+    "deleteConfirm": "حذف نتيجة \"{{name}}\"؟ لا يمكن التراجع عن هذا.",
+    "deleted": "تم حذف النتيجة",
+    "noAnswer": "لا توجد إجابة",
+    "none": "لا توجد نتائج بعد، أنهِ لعبة لرؤية التقارير هنا",
+    "paginationOf": " من ",
+    "stats": {
+      "correctAnswers": "الإجابات الصحيحة",
+      "playersAnswered": "اللاعبون الذين أجابوا"
+    },
+    "table": {
+      "answered": "تمت الإجابة",
+      "correct": " صحيحة",
+      "correctIncorrect": "صحيحة / خاطئة",
+      "incorrect": " خاطئة",
+      "player": "اللاعب",
+      "points": "النقاط"
+    },
+    "playerCount": "{{count}} لاعب(ين)",
+    "timeLimitSuffix": "ث الحد الزمني"
+  },
+  "tabs": {
+    "play": "لعب",
+    "quizz": "الاختبار",
+    "results": "النتائج"
+  }
+}

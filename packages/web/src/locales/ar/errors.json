@@ -1,0 +1,45 @@
+{
+  "auth": {
+    "invalidInviteCode": "رمز الدعوة غير صالح",
+    "usernameTooLong": "اسم المستخدم لا يمكن أن يتجاوز 20 حرفًا",
+    "usernameTooShort": "اسم المستخدم لا يمكن أن يقل عن 4 أحرف"
+  },
+  "game": {
+    "expired": "انتهت صلاحية اللعبة",
+    "kickedByManager": "تم طردك من قبل المدير",
+    "managerAlreadyConnected": "المدير متصل بالفعل",
+    "managerDisconnected": "تم قطع اتصال المدير",
+    "noPlayersConnected": "لا يوجد لاعبون متصلون",
+    "managerCannotJoin": "لا يمكنك الانضمام إلى لعبتك الخاصة",
+    "notFound": "اللعبة غير موجودة",
+    "playerAlreadyConnected": "اللاعب متصل بالفعل"
+  },
+  "manager": {
+    "failedToReadConfig": "فشل في قراءة إعدادات اللعبة",
+    "invalidPassword": "كلمة المرور غير صحيحة",
+    "passwordNotConfigured": "لم يتم تعيين كلمة مرور المدير"
+  },
+  "notFound": {
+    "back": "العودة إلى الرئيسية",
+    "description": "الصفحة التي تبحث عنها غير موجودة.",
+    "title": "الصفحة غير موجودة"
+  },
+  "quizz": {
+    "answerEmpty": "لا يمكن أن تكون الإجابة فارغة",
+    "failedToDelete": "فشل حذف الاختبار",
+    "failedToSave": "الاختبار غير مكتمل، تأكد من أن كل سؤال له عنوان وإجابة صحيحة واحدة على الأقل",
+    "failedToUpdate": "فشل تحديث الاختبار",
+    "invalidMediaUrl": "يجب أن يكون رابط الوسائط رابطًا صالحًا",
+    "noQuestions": "يجب أن يحتوي الاختبار على سؤال واحد على الأقل",
+    "notFound": "الاختبار غير موجود",
+    "questionEmpty": "لا يمكن أن يكون السؤال فارغًا",
+    "subjectEmpty": "لا يمكن أن يكون الموضوع فارغًا",
+    "tooFewAnswers": "يجب أن يحتوي السؤال على إجابتين على الأقل",
+    "tooManyAnswers": "لا يمكن أن يحتوي السؤال على أكثر من 4 إجابات"
+  },
+  "route": {
+    "back": "العودة إلى الرئيسية",
+    "description": "حدث خطأ غير متوقع. يرجى المحاولة مرة أخرى.",
+    "title": "حدث خطأ ما"
+  }
+}

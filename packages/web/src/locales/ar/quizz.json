@@ -1,0 +1,48 @@
+{
+  "addAnswerPlaceholder": "أضف إجابة...",
+  "addQuestion": "أضف سؤالًا",
+  "answersCountSuffix": " إجابات",
+  "deleteQuestion": "حذف السؤال",
+  "noQuestionYet": "لا يوجد سؤال بعد",
+  "question": {
+    "addMediaHint": "أضف صورة أو فيديو أو صوت إلى سؤالك",
+    "config": {
+      "answerTime": "وقت الإجابة",
+      "answerTimeHint": "الوقت المتاح للاعبين للإجابة",
+      "noTimeLimit": "بدون حد زمني",
+      "noTimeLimitHint": "تُمنح النقاط بناءً على ترتيب الإجابة. لا يوجد حد زمني للإجابة.",
+      "questionDisplay": "عرض السؤال",
+      "questionDisplayHint": "المدة قبل ظهور الإجابات",
+      "timings": "التوقيتات",
+      "answerMode": "نمط الإجابة",
+      "scoring": "احتساب النقاط",
+      "maxPoints": "أقصى نقاط",
+      "maxPointsHint": "أقصى عدد من النقاط يُمنح للإجابة الصحيحة",
+      "penalty": "الخصم",
+      "penaltyHint": "النقاط المخصومة عند الإجابة الخاطئة (لا يمكن أن يقل المجموع عن 0)",
+      "scoringMode": "نمط احتساب النقاط",
+      "scoringMode.strict": "صارم",
+      "scoringMode.balanced": "متوازن",
+      "scoringMode.lenient": "متساهل",
+      "scoringModeHint.strict": "النقاط كاملة فقط إذا تم اختيار جميع الإجابات الصحيحة بدون أي إجابة خاطئة",
+      "scoringModeHint.balanced": "نقاط جزئية: الاختيارات الصحيحة ناقص الخاطئة",
+      "scoringModeHint.lenient": "نقاط لكل إجابة صحيحة، بدون خصم للإجابات الخاطئة"
+    },
+    "deleteQuestion": "حذف السؤال",
+    "deleteQuestionConfirm": "هل أنت متأكد أنك تريد حذف هذا السؤال؟",
+    "media": {
+      "audio": "صوت",
+      "image": "صورة",
+      "video": "فيديو"
+    },
+    "mediaUrlPlaceholder": "أدخل الرابط...",
+    "placeholder": "ابدأ بكتابة سؤالك..."
+  },
+  "quizzSaved": "تم حفظ الاختبار بنجاح",
+  "quizzUpdated": "تم تحديث الاختبار بنجاح",
+  "questionType": {
+    "single": "اختيار واحد",
+    "multi": "اختيار متعدد"
+  },
+  "titleQuizzPlaceholder": "عنوان الاختبار..."
+}

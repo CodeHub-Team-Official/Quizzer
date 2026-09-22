@@ -1,0 +1,30 @@
+{
+  "correct": "أحسنت!",
+  "gamePinLabel": "رمز اللعبة (PIN):",
+  "hud": {
+    "answers": "الإجابات",
+    "time": "الوقت"
+  },
+  "joinInstruction": "انضم إلى اللعبة على",
+  "leaderboard": "لوحة المتصدرين",
+  "pinLabel": "رمز PIN",
+  "reconnect": "إعادة الاتصال",
+  "reconnectTitle": "كنت في لعبة",
+  "playersJoined": "اللاعبون المنضمون: ",
+  "questionPrefix": "السؤال #",
+  "rank": {
+    "1": "المركز الأول",
+    "2": "المركز الثاني",
+    "3": "المركز الثالث",
+    "other": "المركز {{rank}}"
+  },
+  "rankSuffix": " المركز",
+  "resultBehind": "، خلف ",
+  "resultTop": "لقد أنهيت في ",
+  "startGame": "ابدأ اللعبة",
+  "usernamePlaceholder": "اسم المستخدم هنا",
+  "waitingForAnswers": "في انتظار إجابات اللاعبين",
+  "waitingForPlayers": "في انتظار اللاعبين",
+  "wrong": "للأسف",
+  "confirm": "تأكيد"
+}
